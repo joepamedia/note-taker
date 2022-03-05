@@ -41,15 +41,13 @@ This project's license is MIT.
 
 If you have any questions, please contact me using a method below.
 
-## GitHub
-
-[Github](https://github.com/joepamedia/)
 
 ## Email
 
 josephpalmisano18@gmail.com
 
 ## GitHub Info
+[Github](https://github.com/joepamedia/)
 
 ### Author
 
